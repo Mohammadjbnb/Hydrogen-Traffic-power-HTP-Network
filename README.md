@@ -1,4 +1,4 @@
-# Hydrogen-Traffic-power (HTP) Network
+# Hydrogen-Traffic-power Network
 
 
 **Dataset for "A Hybrid Traffic Flow Forecasting and Risk-Averse Decision Strategy for Hydrogen-based Integrated Traffic and Power Networks"**
