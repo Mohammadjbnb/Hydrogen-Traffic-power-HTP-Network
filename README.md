@@ -19,6 +19,3 @@ The datasets include various components of integrated hydrogen-traffic-power net
 
 **Traffic Network:** Based on downtown Edmonton, this origin-destination traffic network comprises 18 nodes and 27 roads, offering insights into urban traffic flows.
 
-
-
-This paper has not yet been published, and as such, updates to the datasets and accompanying analyses may occur as the peer review process progresses. Please check back for the most current version of the datasets and research findings.
